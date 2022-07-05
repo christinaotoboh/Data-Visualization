@@ -9,3 +9,4 @@
 # NYC traffic - Analyzes Ney York City motor accidents reported to the New York Police department from January to August 2020. It shows the percentage of accidents month-wise and other key metrics.
 
 # USA travel Data visualization - A trend analysis on the countries travelled by Americans for the period of 31 years, the most visted country. 
+# PWC call center trend. Project one. shows insights on the call center data provided by a client to PWc. 
